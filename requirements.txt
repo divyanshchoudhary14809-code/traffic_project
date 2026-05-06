@@ -1,0 +1,11 @@
+streamlit
+pandas
+altair
+requests
+streamlit-autorefresh
+opencv-python-headless
+fastapi
+uvicorn
+ultralytics
+cloudant
+python-multipart
