@@ -2,7 +2,6 @@ import streamlit as st
 import requests
 import pandas as pd
 import altair as alt
-import cv2
 import os
 from streamlit_autorefresh import st_autorefresh
 
